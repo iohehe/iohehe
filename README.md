@@ -4,5 +4,6 @@
 CodeWars: [![🐒](https://www.codewars.com/users/iohex/badges/micro)](https://www.codewars.com/users/iohex/)
 
 LeetCode: [![LeetCode](https://leetcode-badge.haozibi.dev/v1cn/solved/iohex.svg)](https://leetcode-badge.haozibi.dev/v1cn/solved/iohex.svg)
+LeetCode Log: 
 [![🐒](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/iohex.svg?type=past-year&color=yellow)](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/iohex.svg?type=past-year&color=yellow)
 
